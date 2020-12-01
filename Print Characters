@@ -1,0 +1,5 @@
+function printCharacters(word){
+for(let a of word){
+    console.log(a);
+}
+}
